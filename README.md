@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Maarten
+#### Beginner Software developer
+![Beginner Software developer](https://i.imgur.com/L3mywuG.jpeg)
 
-<!--
-**maarten1401/maarten1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a beginner software developer still in school, on this page you'll see all sorts of diverent projects i am consisting of HTML / CSS / JS / Angular / Java.
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS / JAVA / ANGULAR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Persone site 
+- 🌱 I’m currently learning Angular 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_maarten.t/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](north_scape)  
