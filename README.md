@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Maarten
-#### Beginner Software developer
+#### Software developer
 ![Beginner Software developer](https://i.imgur.com/L3mywuG.jpeg)
 
 Im a software developer still in school, on this page you'll see all sorts of diverent projects i am consisting of HTML / CSS / JS / Angular / Java.
