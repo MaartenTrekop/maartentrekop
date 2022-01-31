@@ -2,7 +2,7 @@
 #### Beginner Software developer
 ![Beginner Software developer](https://i.imgur.com/L3mywuG.jpeg)
 
-Im a beginner software developer still in school, on this page you'll see all sorts of diverent projects i am consisting of HTML / CSS / JS / Angular / Java.
+Im a software developer still in school, on this page you'll see all sorts of diverent projects i am consisting of HTML / CSS / JS / Angular / Java.
 
 Im also very interested in photography, the second instagram link is a link to my Photography account.
 
