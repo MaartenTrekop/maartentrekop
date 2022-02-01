@@ -11,5 +11,4 @@ Skills: JS / HTML / CSS / JAVA / ANGULAR
 - 🌱 I’m currently learning Angular 
 
 
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/_maarten.t/)                        
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/north_scape/)  
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/_maarten.t/)                       [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/north_scape/)  
