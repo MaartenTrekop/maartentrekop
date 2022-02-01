@@ -1,5 +1,6 @@
+![Beginner Software developer](https://i.imgur.com/9Pdb6uA.jpg)
+
 ### Hi there 👋, My name is Maarten
-![Beginner Software developer](https://i.imgur.com/L3mywuG.jpeg)
 
 I'm a software/ web developer still in school, on my github you'll find all my public projects.
 
