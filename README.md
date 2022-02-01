@@ -1,8 +1,6 @@
 ![Beginner Software developer](https://i.imgur.com/9Pdb6uA.jpg)
 
-### Hi there 👋, My name is Maarten
-
-I'm a software/ web developer still in school, on my github you'll find all my public projects.
+<h1 align="center" >Hi, I'm <a href="" target="_blank"> Maarten Trekop </a></h1>
 
 Im also very interested in photography, the second instagram link is a link to my Photography account.
 
