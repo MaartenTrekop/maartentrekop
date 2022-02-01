@@ -1,6 +1,6 @@
 ![Beginner Software developer](https://i.imgur.com/9Pdb6uA.jpg)
 
-<h1 align="center" >Hi, I'm <a href="" target="_blank"> Maarten Trekop </a></h1>
+<h1 align="center" >Hi, I'm Maarten Trekop></h1>
 
 Im also very interested in photography, the second instagram link is a link to my Photography account.
 
