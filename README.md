@@ -1,10 +1,8 @@
 ![Beginner Software developer](https://i.imgur.com/9Pdb6uA.jpg)
 
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/maarten-trekop/" target="_blank">Maarten Trekop</h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/maarten-trekop/" target="_blank">Maarten Trekop</a></h1>
 
 About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Software engineer. Currently in my third year. Previous to this i studied web development at landstede in the Netherlands.
-  
-<h3 align="center"> Web And App Developer | Tech Enthusiast </h3>
 
 <div align="center">
 
