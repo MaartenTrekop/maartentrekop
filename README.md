@@ -4,11 +4,11 @@
 
 About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Software engineer. Currently in my third year. Previous to this i studied web development at landstede in the Netherlands.
   
-<h3 align="center"> Web And App Developer | Machine Learning Enthusiast </h3>
+<h3 align="center"> Web And App Developer | Tech Enthusiast </h3>
 
 <div align="center">
 
-  <h1>Technical Skills 🛠</h1>
+  <h1>Technical Skills</h1>
   I have learned web and software development in school and have a good understanding of HTML, CSS, JavaScript, Angular, bit of React native, Jquery, ReactJs, NodeJs, SQL, Firebase, Wordpress. Also very at home in a scrum environment.
   
   <h1>Projects</h1> <br/>
