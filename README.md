@@ -12,6 +12,7 @@ About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Softw
   I have learned web and software development in school and have a good understanding of HTML, CSS, JavaScript, Angular, bit of React native, Jquery, ReactJs, NodeJs, SQL, Firebase, Wordpress. Also very at home in a scrum environment.
   
   <h1>Projects</h1> <br/>
+  </div>
 | Project 	| Description 	| Status 	|
 |---	|---	|---	|
 | Portfolio website 	| I'm currently making my portfilio website in angular 	| In the works 	|
@@ -22,6 +23,7 @@ About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Softw
   
   
   <h1>Socials</h1>
+
+
   [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/_maarten.t/)                             [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/north_scape/)  
   [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='instagram' height='40'>](https://www.linkedin.com/in/maarten-trekop/)  
-</div>
