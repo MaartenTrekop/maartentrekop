@@ -12,17 +12,17 @@ About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Softw
   I have learned web and software development in school and have a good understanding of HTML, CSS, JavaScript, Angular, bit of React native, Jquery, ReactJs, NodeJs, SQL, Firebase, Wordpress. Also very at home in a scrum environment.
   
   <h1>Projects</h1> <br/>
-  </div>
+ </div>
 | Project 	| Description 	| Status 	|
-|---	|---	|---	|
+| :---         |     :---:      |          :--- |
 | Portfolio website 	| I'm currently making my portfilio website in angular 	| In the works 	|
 | Groceries app 	| I want to get my feat wet in React Native so i thought this app would be perfect for that 	| Backlog 	|
 | Simple website for my photography 	| To be determined  	| Backlog 	|
 | Recipe website 	| Probably going to be made in Angular with the data coming from the API i want to write for it 	| Backlog 	|
-| Recipe API 	| To be determined, probably Rest. 	|  	|
+| Recipe API 	| To be determined, probably Rest. 	| Backlog 	|
   
   
-  <h1>Socials</h1>
+  <h1 align="center">Socials</h1>
 
 
   [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/_maarten.t/)                             [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/north_scape/)  
