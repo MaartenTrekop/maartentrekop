@@ -10,7 +10,7 @@ About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Softw
   <h1>Technical Skills</h1>
   I have learned web and software development in school and have a good understanding of HTML, CSS, JavaScript, Angular, bit of React native, Jquery, ReactJs, NodeJs, SQL, Firebase, Wordpress. 
   Also very at home in a scrum environment.
-  
+   <br/> <br/>
   <h1>Projects</h1> <br/>
 
   
