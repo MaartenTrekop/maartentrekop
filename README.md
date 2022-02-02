@@ -12,9 +12,13 @@ About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Softw
   I have learned web and software development in school and have a good understanding of HTML, CSS, JavaScript, Angular, bit of React native, Jquery, ReactJs, NodeJs, SQL, Firebase, Wordpress. Also very at home in a scrum environment.
   
   <h1>Projects</h1> <br/>
- </div>
+
+  
+  
+  
+
 | Project 	| Description 	| Status 	|
-| :---         |     :---:      |          :--- |
+| :---         |     :---      |          :--- |
 | Portfolio website 	| I'm currently making my portfilio website in angular 	| In the works 	|
 | Groceries app 	| I want to get my feat wet in React Native so i thought this app would be perfect for that 	| Backlog 	|
 | Simple website for my photography 	| To be determined  	| Backlog 	|
@@ -22,8 +26,10 @@ About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Softw
 | Recipe API 	| To be determined, probably Rest. 	| Backlog 	|
   
   
+   </div>
+
+  
   <h1 align="center">Socials</h1>
 
 
-  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/_maarten.t/)                             [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/north_scape/)  
-  [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='instagram' height='40'>](https://www.linkedin.com/in/maarten-trekop/)  
+  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/_maarten.t/)[<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/north_scape/)[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='instagram' height='40'>](https://www.linkedin.com/in/maarten-trekop/)  
