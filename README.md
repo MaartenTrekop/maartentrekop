@@ -1,7 +1,7 @@
 ![Beginner Software developer](https://i.imgur.com/9Pdb6uA.jpg)
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/maarten-trekop/" target="_blank">Maarten Trekop</a></h1>
-<img width="40%" align="right"   src="https://github.com/MaartenTrekop/maartentrekop/blob/main/james-harrison-vpOeXr5wmR4-unsplash.jpg" >
+<img width="40%" align="right"   src="https://github.com/MaartenTrekop/maartentrekop/blob/main/2842680.jpg" >
 <p aligh="right"><a href='https://nl.freepik.com/vectoren/technologie'>Technologie vector gemaakt door freepik - nl.freepik.com</a></p>
 About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Software engineer. Currently in my third year. Previous to this i studied web development at landstede in the Netherlands.
 
