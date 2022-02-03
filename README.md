@@ -1,7 +1,7 @@
 ![Beginner Software developer](https://i.imgur.com/9Pdb6uA.jpg)
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/maarten-trekop/" target="_blank">Maarten Trekop</a></h1>
-<img height="400px" align="right"   src="https://github.com/MaartenTrekop/maartentrekop/blob/main/1484675005.svg" >
+<img width="25%" align="right" src="https://github.com/MaartenTrekop/maartentrekop/blob/main/1484675005.svg" >
 
 About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Software engineer. Currently in my third year. Previous to this i studied web development at landstede in the Netherlands.
 
@@ -12,8 +12,8 @@ About my self, im <b>Maarten Trekop</b> and currently studing at Saxion as Softw
   Also very at home in a scrum environment.
   
   <!-- lol oeps sorry for that :) but it works so -->
-   <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
-  <h1>Projects</h1> <br/>
+   <br/> <br/> <br/> <br/>
+  <h1 align="center">Projects</h1> <br/>
 
   
   
